@@ -1,0 +1,18 @@
+
+.successButtons{
+    color: white;
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 7px;
+}
+
+.successButtons:hover{
+    background-color: white;
+    color: green;
+    border: 1px solid green;
+    border-radius: 7px;
+}
+
+.successIcon{
+    color: green
+}
